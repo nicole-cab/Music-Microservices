@@ -30,23 +30,47 @@ An audio recognition app which comprises a set of microservices designed to hand
 #### Tracks Microservice:
 
 - Create a Track (script1.sh)
-![Create Track Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/create_track.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/create_track_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/create_track.png?raw=true" width="300">
+</div>
 
 - List all Tracks (script2.sh)
-![List Tracks Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/list_tracks.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/list_tracks_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/list_tracks.png?raw=true" width="300">
+</div>
 
 - Read a Track (script3.sh)
-![Read Track Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/read_track.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/read_track_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/read_track.png?raw=true" width="300">
+</div>
 
 - Delete a Track (script4.sh)
-![Delete Track Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/delete_track.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/delete_track_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/delete_track.png?raw=true" width="300">
+</div>
 
 #### Search Microservice:
 
 - Search a Track (script5.sh)
-![ Search Track Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/search_track.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/search_track_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/search_track.png?raw=true" width="300">
+</div>
 
 #### Cooltown Microservice: (script6.sh)
 
 - Retrieve A Full Track
-![Retrueve Full Track Screenshot](https://github.com/nicole-cab/music-microservices/blob/main/screenshots/recognize_track.png?raw=true)
+<div>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/recognize_track_api.png?raw=true" width="300" style="margin-right: 20px;">
+    <br>
+    <img src="https://github.com/nicole-cab/music-microservices/blob/main/screenshots/recognize_track.png?raw=true" width="300">
+</div>
