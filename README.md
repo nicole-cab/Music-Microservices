@@ -25,7 +25,7 @@ An audio recognition app which comprises a set of microservices designed to hand
 - SQLite
 - REST APIs
 
-## Examples:
+## Screenshots:
 
 #### Tracks Microservice:
 
